@@ -1,0 +1,6 @@
+{
+  "name": "Kth opticalflow",
+  "tagline": "This repository contains the code for Using OF Visualization for Human Action Recognition. [Work under progress]",
+  "body": "# KTH_OpticalFlow\r\nThis repository contains the code supporting the paper \"Learning from Optical Flow Visualization for Human Action Recognition\" by Arpan Gupta and Praveen Kumar. This work is currently under progress. \r\n\r\n## Overview\r\nCNNs have been extensively used for image classification tasks, but their extension to videos poses a number of challenges. In this work, we try to recognize the actions based on the idea of converting the motion feature (Optical Flow) of videos into an image visualization and applying the CNN for action recognition on those images. As only a single motion feature is used for recognition, against the general notion of automatic extraction of spatio-temporal features using convolution operations (as may be done by applying 3D CNNs), the accuracy is expected to be low. \r\n\r\nWe plan to extend this work further by improving the results.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
